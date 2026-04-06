@@ -2,8 +2,8 @@
 
 ## View Layout dan View Cell (CodeIgniter 4)
 
-👤 **Nama:** Naufal Rafi Haryanto
-🆔 **NIM:** 312410118
+**Nama:** Muhammad Hafiyainul Yakin Wahid
+**NIM:** 312410164
 
 ---
 
